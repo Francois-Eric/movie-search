@@ -2,7 +2,7 @@
 
 **_ Pour un rendu fluide, pensez à fermer la fenêtre devtools _**
 
-Front React, bootstrap Create React App
+Front Typescript React, bootstrap Create React App
 
 Visualisation des données liées aux lieux de tournages de la ville de Paris.
 
